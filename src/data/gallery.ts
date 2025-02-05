@@ -3,13 +3,13 @@ export const galleryItems = [
     id: 1,
     url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7",
     title: "Love at First Sight",
-    description: "The moment I was taking photo of sunset, and you kept interfering and many more small moments like saying Inder, ginger.."
+    description: "The moment..."
   },
   {
     id: 2,
     url: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2",
     title: "Our First Date",
-    description: "Our first date is kinda starbucks as for me it was but later when I gave you rose was the real first date"
+    description: "Our first date..."
   },
   {
     id: 3,
