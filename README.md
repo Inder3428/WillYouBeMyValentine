@@ -113,4 +113,4 @@ See [LICENSE](./LICENSE) file for details.
 **Inderpreet Singh**
 
 This project is designed and developed with ❤️ by Inderpreet Singh.
-![](Untitled video - Made with Clipchamp (1).gif)
+![]([Untitled video - Made with Clipchamp (1).gif](https://github.com/Inder3428/WillYouBeMyValentine/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif))
