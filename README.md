@@ -113,3 +113,4 @@ See [LICENSE](./LICENSE) file for details.
 **Inderpreet Singh**
 
 This project is designed and developed with ❤️ by Inderpreet Singh.
+![](Untitled video - Made with Clipchamp (1).gif)
